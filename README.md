@@ -47,5 +47,5 @@ To get the application up and running, clone the repository, navigate to the pro
 git clone https://github.com/your-username/movie-listing-app.git
 cd movie-listing-app
 yarn install
-echo "REACT_APP_OMDB_API_KEY=e605e5ba" > .env
+echo "REACT_APP_OMDB_API_KEY="key" > .env
 yarn start
